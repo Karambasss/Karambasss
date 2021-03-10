@@ -1,16 +1,31 @@
-### Hi there 👋
+# Hello, Bro ! 🤙
 
-<!--
-**Karambasss/Karambasss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://steamuserimages-a.akamaihd.net/ugc/942812330891270873/C85757CB6AA81D6CE166D65A07649B9A51E6D076/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Me in social networks :
+
+[<img align="center" alt="https://vk.com/mkuznetsov19" width="90px" src="https://rubikmedia.ru/upload/iblock/1fd/vk.png" />][website]&nbsp;
+<br />
+<br />
+<br />
+
+---
+
+### My GitHub Stats
+<br />
+<br />
+
+&nbsp;[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Karambasss&show_icons=true&theme=onedark&count_private=true )](https://github.com/Master-sniffer/github-readme-stats)
+<br />
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Karambasss&theme=synthwave&hide_border=true)](https://github.com/Master-sniffer/github-readme-streak-stats) 
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karambasss&hide=html&langs_count=20&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[website]: https://vk.com/mkuznetsov19
+
+## See ya Out There... 
+![](https://thumbs.gfycat.com/AromaticYellowAntipodesgreenparakeet-size_restricted.gif)
