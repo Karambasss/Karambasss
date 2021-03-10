@@ -8,7 +8,6 @@
 [<img align="center" alt="https://vk.com/mkuznetsov19" width="90px" src="https://rubikmedia.ru/upload/iblock/1fd/vk.png" />][website]&nbsp;
 <br />
 <br />
-<br />
 
 ### My GitHub Stats
 <br />
