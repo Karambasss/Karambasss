@@ -20,12 +20,12 @@
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karambasss&hide=html&langs_count=20&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Karambasss" alt="https://github.com/Karambasss" />
+</p>
 
 [website]: https://vk.com/mkuznetsov19
 
 ## See ya Out There... 
 ![](https://thumbs.gfycat.com/AromaticYellowAntipodesgreenparakeet-size_restricted.gif)
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Karambasss" alt="https://github.com/Karambasss" />
-</p>
+
