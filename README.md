@@ -5,7 +5,7 @@
 
 ### Me in social networks :
 
-[<img align="center" alt="https://vk.com/mkuznetsov19" width="90px" src="https://rubikmedia.ru/upload/iblock/1fd/vk.png" />][website]&nbsp;
+[<img align="center" alt="https://vk.com/mkuznetsov19" width="90px" src="https://conicheva84.ru/wp-content/uploads/2019/03/vkontakte.jpg" />][website]&nbsp;
 <br />
 <br />
 
