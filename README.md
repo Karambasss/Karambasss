@@ -11,7 +11,6 @@
 
 ### My GitHub Stats
 <br />
-<br />
 
 &nbsp;[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Karambasss&show_icons=true&theme=onedark&count_private=true )](https://github.com/Master-sniffer/github-readme-stats)
 <br />
