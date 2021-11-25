@@ -13,13 +13,9 @@
 <br />
 <br />
 
-&nbsp;[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Karambasss&show_icons=true&theme=onedark&count_private=true )](https://github.com/Master-sniffer/github-readme-stats)
-<br />
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Karambasss&theme=synthwave&hide_border=true)](https://github.com/Master-sniffer/github-readme-streak-stats) 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karambasss&hide=html&langs_count=20&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Karambasss" alt="https://github.com/Karambasss" />
 </p>
