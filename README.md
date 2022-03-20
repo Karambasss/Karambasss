@@ -18,9 +18,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Karambasss&theme=synthwave&hide_border=true)](https://github.com/Master-sniffer/github-readme-streak-stats) 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karambasss&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Karambasss)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karambasss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Karambasss" alt="https://github.com/Karambasss" />
